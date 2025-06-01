@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" r="18" fill="#D4AF37" stroke="#B8941F" stroke-width="2"/>
+  <!-- Yin Yang Symbol -->
+  <g transform="translate(20, 20)">
+    <!-- Main circle -->
+    <circle cx="0" cy="0" r="8" fill="white"/>
+    <!-- Black half -->
+    <path d="M 0,-8 A 8,8 0 0,1 0,8 A 4,4 0 0,1 0,0 A 4,4 0 0,0 0,-8 Z" fill="#1F2937"/>
+    <!-- White dot in black half -->
+    <circle cx="0" cy="-4" r="2" fill="white"/>
+    <!-- Black dot in white half -->
+    <circle cx="0" cy="4" r="2" fill="#1F2937"/>
+  </g>
+</svg>

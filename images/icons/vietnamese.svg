@@ -1,0 +1,8 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="3" y="6" width="24" height="18" rx="2" fill="none" stroke="white" stroke-width="2"/>
+  <rect x="3" y="6" width="24" height="6" fill="#DC143C"/>
+  <rect x="3" y="18" width="24" height="6" fill="#DC143C"/>
+  <polygon points="15,12 17,16 21,16 18,19 19,23 15,21 11,23 12,19 9,16 13,16" fill="#FFD700"/>
+  <path d="M6 3L6 27M24 3L24 27" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="15" y="28" text-anchor="middle" font-family="serif" font-size="8" fill="white">VN</text>
+</svg>
