@@ -1,4 +1,4 @@
-// BaziReader Landing Page JavaScript
+// BaZiReader Landing Page JavaScript
 
 document.addEventListener("DOMContentLoaded", function () {
   // Initialize all functionality
@@ -171,7 +171,7 @@ function initAnimations() {
 
 // CTA button tracking and analytics
 function initCTATracking() {
-  const ctaButtons = document.querySelectorAll('a[href="https://app.bazireader.com"]');
+  const ctaButtons = document.querySelectorAll('a[href="https://app.BaZiReader.com"]');
 
   ctaButtons.forEach((button, index) => {
     button.addEventListener("click", function (e) {
@@ -190,7 +190,7 @@ function initCTATracking() {
       // Facebook Pixel tracking (if available)
       if (typeof fbq !== "undefined") {
         fbq("track", "Lead", {
-          content_name: "BaziReader CTA",
+          content_name: "BaZiReader CTA",
           content_category: buttonLocation,
         });
       }

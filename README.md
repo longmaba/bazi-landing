@@ -1,6 +1,6 @@
-# BaziReader Landing Page
+# BaZiReader Landing Page
 
-A modern, professional landing page for BaziReader - an AI-powered Bazi reading application targeting Vietnamese users.
+A modern, professional landing page for BaZiReader - an AI-powered Bazi reading application targeting Vietnamese users.
 
 ## 🌟 Features
 
@@ -15,12 +15,14 @@ A modern, professional landing page for BaziReader - an AI-powered Bazi reading 
 ## 🎨 Design Elements
 
 ### Color Palette
+
 - **Primary Gold**: #D4AF37 (Traditional feng shui gold)
 - **Deep Red**: #8B0000 (Auspicious red)
 - **Deep Blue**: #1E3A8A (Wisdom and depth)
 - **Text Colors**: Various shades of gray for optimal readability
 
 ### Typography
+
 - **Primary Font**: Inter (modern, clean)
 - **Secondary Font**: Noto Sans (Vietnamese character support)
 - **Responsive sizing**: Scales appropriately across devices
@@ -36,7 +38,7 @@ bazi-landingpage/
 ├── js/
 │   └── main.js            # Interactive functionality
 ├── images/
-│   ├── logo.svg           # BaziReader logo
+│   ├── logo.svg           # BaZiReader logo
 │   ├── hero-illustration.svg # Hero section illustration
 │   ├── favicon.ico        # Website favicon
 │   ├── icons/             # Feature and social media icons
@@ -68,6 +70,7 @@ Simply open `index.html` in your web browser to view the landing page locally.
 For best results, serve the files through a web server:
 
 #### Using Python (if installed):
+
 ```bash
 # Python 3
 python -m http.server 8000
@@ -77,11 +80,13 @@ python -m SimpleHTTPServer 8000
 ```
 
 #### Using Node.js (if installed):
+
 ```bash
 npx serve .
 ```
 
 #### Using PHP (if installed):
+
 ```bash
 php -S localhost:8000
 ```
@@ -99,30 +104,36 @@ Then visit `http://localhost:8000` in your browser.
 ## 🎯 Key Sections
 
 ### 1. Hero Section
+
 - Compelling headline about AI-powered Bazi reading
 - Clear value proposition
-- Primary CTA button to app.bazireader.com
+- Primary CTA button to app.BaZiReader.com
 - Trust indicators (user count, accuracy, support)
 
 ### 2. About Bazi Section
+
 - Explanation of traditional Bazi reading
 - How AI enhances the experience
 - Visual representation of the process
 
 ### 3. Features Section
+
 - 6 key features with icons and descriptions
 - Focus on AI capabilities, Vietnamese language, and user benefits
 
 ### 4. Testimonials Section
+
 - 3 user testimonials with photos and ratings
 - Social proof to build trust
 
 ### 5. Pricing Section
+
 - 3 pricing tiers (Free, Pro, Enterprise)
 - Clear feature comparison
 - Prominent CTA buttons
 
 ### 6. Footer
+
 - Company information and links
 - Social media links
 - Contact information
@@ -130,17 +141,20 @@ Then visit `http://localhost:8000` in your browser.
 ## 🔧 Customization
 
 ### Updating Content
+
 1. Edit the Vietnamese text in `index.html`
 2. Modify colors in `css/style.css` (CSS custom properties at the top)
 3. Replace placeholder images with actual photos
 4. Update social media links and contact information
 
 ### Adding New Sections
+
 1. Add HTML structure in `index.html`
 2. Add corresponding styles in `css/style.css`
 3. Add any interactive functionality in `js/main.js`
 
 ### Performance Optimization
+
 - Replace placeholder images with optimized WebP/AVIF formats
 - Implement lazy loading for images
 - Minify CSS and JavaScript for production
@@ -149,6 +163,7 @@ Then visit `http://localhost:8000` in your browser.
 ## 🌐 SEO Optimization
 
 The landing page includes:
+
 - Proper meta tags for search engines
 - Open Graph tags for social media sharing
 - Semantic HTML structure
@@ -156,6 +171,7 @@ The landing page includes:
 - Structured data markup ready
 
 ### Recommended Additions:
+
 - Google Analytics tracking code
 - Google Search Console verification
 - Schema.org structured data
@@ -165,12 +181,14 @@ The landing page includes:
 ## 📊 Analytics & Tracking
 
 The JavaScript includes tracking for:
+
 - CTA button clicks
 - User engagement metrics
 - Error logging
 - Performance monitoring
 
 To enable tracking, add your analytics codes:
+
 - Google Analytics: Add gtag code
 - Facebook Pixel: Add fbq code
 - Other tracking platforms as needed
@@ -185,12 +203,14 @@ To enable tracking, add your analytics codes:
 ## 🚀 Deployment Options
 
 ### Static Hosting (Recommended)
+
 - **Netlify**: Drag and drop deployment
 - **Vercel**: Git-based deployment
 - **GitHub Pages**: Free hosting for public repos
 - **AWS S3 + CloudFront**: Scalable solution
 
 ### Traditional Hosting
+
 - Upload all files to your web server's public directory
 - Ensure proper file permissions
 - Configure HTTPS certificate
@@ -198,6 +218,7 @@ To enable tracking, add your analytics codes:
 ## 📈 Performance Metrics
 
 Target performance goals:
+
 - **First Contentful Paint**: < 1.5s
 - **Largest Contentful Paint**: < 2.5s
 - **Cumulative Layout Shift**: < 0.1
@@ -212,12 +233,13 @@ Target performance goals:
 ## 📞 Support & Contact
 
 For technical support or customization requests:
-- Email: contact@bazireader.com
-- Website: https://bazireader.com
+
+- Email: contact@BaZiReader.com
+- Website: https://BaZiReader.com
 
 ## 📄 License
 
-This landing page template is created for BaziReader. All rights reserved.
+This landing page template is created for BaZiReader. All rights reserved.
 
 ---
 
