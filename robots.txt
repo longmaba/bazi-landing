@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bazireader.com/sitemap.xml
+
